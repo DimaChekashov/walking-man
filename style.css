@@ -1,0 +1,12 @@
+.body{
+  min-height: 100vh;
+  margin: 0;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mainScene{
+  border: 1px solid #000000;
+}
