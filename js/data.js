@@ -10,14 +10,14 @@ var controlsKey = [
     name: 'walkRight',
     keyNum: 39,
     action: function() {
-      man1.walk(man1.sprite);
+      man1.walkRight(man1.sprite);
     },
   },
   {
     name: 'walkLeft',
     keyNum: 37,
     action: function() {
-      man1.walk(man1.sprite);
+      man1.walkLeft(man1.sprite);
     },
   },
   {

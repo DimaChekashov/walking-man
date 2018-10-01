@@ -1,5 +1,7 @@
 var scene = document.getElementById('mainScene'),
-    ctx = scene.getContext('2d');
+    ctx = scene.getContext('2d'),
+    xPos = 260,
+    yPos = 290;
 
 var x = 0;
 
